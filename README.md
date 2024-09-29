@@ -1,4 +1,4 @@
-# Number row characters
+# Number Row Characters
 - ~ Tilde
 - ! Exclamation Mark
 - @ At sign
