@@ -21,3 +21,13 @@
 # Expirements
 😈 🙂 
 
+## Keyboard Shortcuts
+Shortcuts I frequently use:
+- Ctrl-Shift-T (re-open tabs)
+- Ctrl-F (find words in tab)
+- Alt-Tab (quickly switch between windows)
+
+Shortcuts I would like to start using:
+- Ctrl-Y (redo action)
+- Win-D (quick access to desktop)
+- Ctrl-W (close whatever you are currently looking at)
